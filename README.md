@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syerak748 
 - 👀 I’m interested in game-dev, working on new and better projects
 - 🌱 I’m currently learning machine learning, RUST
-- 💞️ You can reach me at kshitij748@gmail.com
+- 😎 You can reach me at kshitij748@gmail.com
 
 <!---
 syerak748/syerak748 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
