@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @syerak748 
-- 👀 I’m interested in game-dev, working on new and better projects
-- 🌱 I’m currently learning machine learning, RUST
-- 😎 You can reach me at kshitij748@gmail.com
-- 🙄 Find my resume at https://resume.io/r/OgDxqDKHE. (PS : you ll reach this profile eventually)
+- 👀 I’m interested in IOS App Dev(SwiftUI), Computer Architecture and Game-Dev
+- 🌱 I’m currently learning and mastering SwiftUI, Computer Architecture and will start C# soon.
+- 😎 You can reach me at kshitij748@gmail.com.
 
 <!---
 syerak748/syerak748 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
