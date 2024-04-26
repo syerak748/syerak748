@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syerak748 
+- 👋 Hi, I’m Kshitij Gupta 
 - 👀 I’m interested in AI(who isn't), Computer Architecture and Game-Dev
 - 🌱 I’m currently learning and trying to master PyTorch and Advanced Python Concepts and Computer Architecture.
 - 😎 You can reach me at kshitij748@gmail.com.
